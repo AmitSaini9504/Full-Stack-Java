@@ -18,8 +18,11 @@ public class Guessing2 {
                 break;
             } else if (user2 > user1) {
                 System.out.println("You are guessing maximum number, try again...");
-            } else {
+            } else if (user2 < user1){
                 System.out.println("You are guessing minimum number, try again...");
+            }
+            else {
+                System.out.println("Choose valid number...");
             }
 
             if (attempts == maxAttempts) {
