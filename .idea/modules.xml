@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileSystem/FileSystem.iml" filepath="$PROJECT_DIR$/FileSystem/FileSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Grass Revision.iml" filepath="$PROJECT_DIR$/Grass Revision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programs/Programs.iml" filepath="$PROJECT_DIR$/Programs/Programs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test07May/Test07May.iml" filepath="$PROJECT_DIR$/Test07May/Test07May.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
     </modules>
