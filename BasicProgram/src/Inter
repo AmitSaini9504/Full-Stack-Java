@@ -1,0 +1,39 @@
+
+    access modifir, encapsulation: p
+
+    stack memory, heap memory: string : string pool
+    static variable, static method,
+    inner class, singleton class, annonymus class
+
+
+
+    1. OOPS: abstraction, interfaces, polymorphism: overloading - overriding, inheritance
+    2. ARRAY: jaggedArray, multiDimension array, sorting, searching
+    3. Control Statement & Looping: for, forEach
+    4. String: immutable, string builder, buffer
+    5. Exception Handling: throw & throws, JSON
+
+
+    6. MultiThreading: deadlock, sleep, thread life cycle, sleep, join, extending thread
+    7. Collection: array list, linked list, queque, deque, hashset, hashmap, stack queue
+    8. Synchronization
+    9. Socket Programing, networking
+    10. JDBC: select, insert, update, delete (CRUD)
+    11. mysql: join, primary key, union, limit, foreign key,
+    function , procedure,
+    pagination, filter,
+
+    database:
+    persistance
+
+    E-Commerece, Banking Software, ERP
+    library mgmt, college mgmt, hostel mgmt, stock mgmt, examination
+
+    Serialization: string, primitive, Student: id:101, name:prerna, age:22, mobileNo:
+
+    11.File: input / output
+            Buffer, PrintStream, PrintWriter, SequenceWrite
+            pushback,
+
+            image upload, download
+

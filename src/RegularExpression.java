@@ -13,7 +13,7 @@ public class RegularExpression {
             System.out.println("Matcher found");
         }
         else {
-            System.out.println("MAtch not found");
+            System.out.println("Match not found");
         }
 
 }}
